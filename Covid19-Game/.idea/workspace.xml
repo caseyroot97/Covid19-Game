@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b4d2ca0-b21b-4587-89d7-31671825d41d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YphfawauVbFg4teoheAcyy114w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python">
+      <module name="covidgame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python">
+      <module name="covidgame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/server.py" />
+      <option name="PARAMETERS" value="--server=true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4d2ca0-b21b-4587-89d7-31671825d41d" name="Default Changelist" comment="" />
+      <created>1583645546432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583645546432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="77" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584475259425">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="77" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1584475259425" />
+    <state x="372" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583668722990">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="372" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1583668722990" />
+    <state width="1259" height="184" key="GridCell.Tab.0.bottom" timestamp="1584475390474">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1584475390474" />
+    <state width="1259" height="184" key="GridCell.Tab.0.center" timestamp="1584475390473">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1584475390473" />
+    <state width="1259" height="184" key="GridCell.Tab.0.left" timestamp="1584475390473">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1584475390473" />
+    <state width="1259" height="184" key="GridCell.Tab.0.right" timestamp="1584475390474">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1584475390474" />
+    <state width="1259" height="245" key="GridCell.Tab.1.bottom" timestamp="1583676060334">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="245" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583676060334" />
+    <state width="1259" height="245" key="GridCell.Tab.1.center" timestamp="1583676060333">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="245" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1583676060333" />
+    <state width="1259" height="245" key="GridCell.Tab.1.left" timestamp="1583676060333">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="245" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1583676060333" />
+    <state width="1259" height="245" key="GridCell.Tab.1.right" timestamp="1583676060334">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="245" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1583676060334" />
+    <state x="121" y="30" key="SettingsEditor" timestamp="1583653506068">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="121" y="30" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1583653506068" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583675295967">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1583675295967" />
+  </component>
+</project>
